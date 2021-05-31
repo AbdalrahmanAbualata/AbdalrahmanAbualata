@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdalrahmanAbualata
 - 👀 I’m interested learning programming languages
-- 🌱 I’m currently learning html,css.js 
+- 🌱 I’m currently learning html,css.js.Im looking forward to learn java 
 - 📫 How to reach me? by my email : abuataabooood@yahoo.com
 or my phone number : 00962787907418 
 <!---
