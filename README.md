@@ -2,7 +2,7 @@
 
 ### Hi there  👋 
 #### Development and Marketing
-I'm Abdalrahman Abualata from Jordan, and I do content on Design and Development . I really enjoy learning languages and framework like React and React Native , I also enjoy wireframing , UI , UX , and design . With a strong marketing background and a master's degree in marketing.
+my name ıs Abdalrahman abu ala ata ,I'm 26 years old ,I'm a  civil engineering , I have a little bit knowledge in java and I'm looking forward to learn more.
 <img src="https://github.com/AbdalrahmanAbualata/AbdalrahmanAbualata/blob/main/img/Yellow%20and%20Black%20Clean%20Graphic%20Announcements%20University%20Back%20to%20School%20Banner.jpg?raw=true" alt="Abdallah" width="1200" height="500"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanAbualata&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <h4 align="left">Languages and Tools:</h4>
