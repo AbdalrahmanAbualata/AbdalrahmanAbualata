@@ -3,6 +3,9 @@
 ### Hi there  👋 
 #### Full stack software developer
 my name ıs Abdalrahman abu ala ata ,I'm 26 years old ,I'm a  civil engineering , I have a little bit knowledge in java and I'm looking forward to learn more.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <img src="https://github.com/AbdalrahmanAbualata/AbdalrahmanAbualata/blob/main/img/Yellow%20and%20Black%20Clean%20Graphic%20Announcements%20University%20Back%20to%20School%20Banner.jpg?raw=true" alt="Abdallah" width="1200" height="500"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanAbualata&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <h4 align="left">Languages and Tools:</h4>
@@ -15,4 +18,4 @@ BEST REGARDS FROM NOW ON...
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='10'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='10'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='10'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='10'>](https://github.com/AbdalrahmanAbualata)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='10'>](https://www.linkedin.com/in/abdalrahman-abuata-29990521a/) 
